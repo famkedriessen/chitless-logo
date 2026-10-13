@@ -1,1 +1,1 @@
-# chitless-logo.github.io
+# chitless-logo
